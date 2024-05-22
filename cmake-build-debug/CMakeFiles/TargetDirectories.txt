@@ -1,0 +1,3 @@
+D:/Naeem/Daneshgah/TERM2/pishrafte/tamtin5/complex-numbers/cmake-build-debug/CMakeFiles/complex_numbers.dir
+D:/Naeem/Daneshgah/TERM2/pishrafte/tamtin5/complex-numbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Naeem/Daneshgah/TERM2/pishrafte/tamtin5/complex-numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
